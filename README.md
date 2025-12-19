@@ -1,6 +1,8 @@
 paper Name is "Differential Evolution with Duplication Analysis for Feature Selection in Classification"
 
 
+The files preparared in main blrach is provided by authors.
+
 File "main_NDEDA_public" is the main procedure
 
 
